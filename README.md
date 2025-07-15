@@ -1,7 +1,3 @@
-Sure! Here's your updated **`README.md`** for the **AI\_Market\_Basket\_Insight** project — rewritten to match the clear and structured style you shared for your **LAMS** project:
-
----
-
 # 🛒 AI Market Basket Insight
 
 **AI Market Basket Insight** is a data science project that applies the **Apriori algorithm** to uncover hidden associations in customer transactions. It helps identify frequently bought item combinations, supporting decision-making in product placement, promotions, and cross-selling strategies.
@@ -125,5 +121,3 @@ The project conducts a **Market Basket Analysis** using transaction data. It pro
 ---
 
 > 📌 **Project ID:** `AI_Market_Basket_Insight-813821205049`
-
-Let me know if you’d like a downloadable `README.md` file or a badge-enhanced version for GitHub profiles!
